@@ -1,0 +1,61 @@
+body{
+    background-color: burlywood;
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 15em;
+    font-family: Helvetica;
+    
+}
+#cc{
+    text-align: center;
+    background-color: bisque;
+    
+}
+.btncontainer{
+    background-color: rgb(225, 107, 27);
+    border: 3px solid orchid;
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 35%;
+}
+.butto{
+    margin-left: 21.5px;
+    text-align: center;
+    padding: 6px 10px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: rgb(245, 245, 250);
+    background-color: rgb(33, 33, 234); 
+    cursor: pointer;
+}
+.butto:active {
+    background-color: rgb(214, 26, 26);
+}
+.button{
+    margin-left: 21.5px;
+    text-align: center;
+    padding: 6px 10px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: rgb(245, 245, 250);
+    background-color: rgb(33, 33, 234); 
+    cursor: pointer;
+}
+.button:active {
+    background-color: rgb(26, 214, 26);
+}
+.buttonn{
+    margin-left: 21.5px;
+    text-align: center;
+    padding: 6px 10px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: rgb(245, 245, 250);
+    background-color: rgb(33, 33, 234); 
+    cursor: pointer;
+}
+.buttonn:active {
+    background-color: rgb(19, 20, 19);
+}
